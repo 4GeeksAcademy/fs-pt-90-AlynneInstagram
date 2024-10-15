@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background: lightgrey;
+    font-family: Agdasima, sans-serif;
+}
+header {
+    background: white;
+    text-align: left;
+    width: 500px;
+    margin: 0 auto;
+    padding-left: 2px;
+}
+.post {
+    width: 500px;
+    margin: 0 auto;
+    background: white;
+    margin-bottom: 20px;
+}
+img {
+    width: 100%;
+}
+.postHeader {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.postDescription {
+    padding: 5px;
+}
+.postDate{
+    color: grey;
+}
